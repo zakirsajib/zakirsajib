@@ -3,9 +3,9 @@
 I’m Zakir Sajib.
 I'm a full-stack Web Developer (Yes both front and backend) with React, Gatsby, WordPress and Node experience.
 
-#Core services #
+# Core services #
 
-##Static site with Gatsby - Set up WordPress as a headless CMS to build content, then render the content ( including posts, pages, menus, media, advanced custom fields ) with GraphQL. Code repository is usually either GitHub or GitLab and can be hosted on Netlify.
+## Static site with Gatsby - Set up WordPress as a headless CMS to build content, then render the content ( including posts, pages, menus, media, advanced custom fields ) with GraphQL. Code repository is usually either GitHub or GitLab and can be hosted on Netlify.
 
 WordPress theme development - Usually, the client sends me PSD/Sketch/Zeplin/XD and I develop a complete WordPress theme from scratch either using Sage or Themeco X/Pro theme or DIVI and Elementor.
 
